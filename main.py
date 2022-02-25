@@ -103,7 +103,7 @@ class MainWindow(QMainWindow):
 		if (url.isValid()):
 			self.load_url(url)
 		else:
-			url = 'https://www.google.com/search?q=' + url_s
+			url = 'https://www.google.com/search?q=' + url_string
 			self.tabs.currentWidget().page().setUrl(QUrl(url))
 
 	def load_url(self, url):
