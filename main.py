@@ -13,6 +13,7 @@ class MainWindow(QMainWindow):
 		super(MainWindow, self).__init__()
 		self.addressBar()
 		self.toolsBar()
+		self.showMaximized()
 
 		##
 		self.tabs = QTabWidget()
