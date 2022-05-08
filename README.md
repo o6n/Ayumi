@@ -14,7 +14,7 @@ Ayumi - tiny web browser PyQt5
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-https://img.shields.io/github/downloads/o6n/Ayumi/total.svg
+![Download](https://img.shields.io/github/downloads/o6n/Ayumi/total.svg)
 
 ### Built With
 
@@ -22,3 +22,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Python](https://www.python.org/)
 * [PyQt5](https://www.riverbankcomputing.com/software/pyqt/)
+
+### Install
+
+su
+
+cp ayumi.py /usr/bin/ayumi.py
+
+chmod +x /usr/bin/ayumi.py
