@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Name=Ayumi Web Browser
+Name[it]=Ayumi Web Browser
+Comment=Browse the World Wide Web
+Comment[it]=Esplora il web
+GenericName=Web Browser
+GenericName[it]=Navigatore web
+Keywords=Internet;WWW;Browser;Web;Navigatore
+Keywords[it]=Internet;WWW;Browser;Web;Navigatore
+Exec=ayumi.py
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=internet-web-browser
+Categories=Qt;Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
+StartupNotify=true
