@@ -25,8 +25,18 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Install
 
+Where to copy the downloaded files
+
+#### Admin
+
 su
 
 cp ayumi.py /usr/bin/ayumi.py
 
 chmod +x /usr/bin/ayumi.py
+
+#### User
+
+cp ayumi.desktop ~/.local/share/applications/ayumi.desktop
+
+chmod +x ~/.local/share/applications/ayumi.desktop
