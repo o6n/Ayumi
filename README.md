@@ -22,6 +22,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Python](https://www.python.org/)
 * [PyQt5](https://www.riverbankcomputing.com/software/pyqt/)
+* [PyQtWebEngine](https://pypi.org/project/PyQtWebEngine/)
+
+pip install PyQtWebEngine
 
 ### Install
 
